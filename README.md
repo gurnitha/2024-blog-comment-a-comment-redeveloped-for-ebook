@@ -8,3 +8,6 @@
 
         new file:   .gitignore
         new file:   README.md
+
+
+## 2. PROYEK DJANGO
